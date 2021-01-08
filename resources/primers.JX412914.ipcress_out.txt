@@ -1,0 +1,22 @@
+
+Ipcress result
+--------------
+ Experiment: PhageM13
+    Primers: B A
+     Target: ENA|JX412914|JX412914.1:filter(unmasked) Enterobacteria phage M13 isolate WT variety Rutgers, complete genome.
+    Matches: 22/22 20/20
+    Product: 181 bp (range 100-500)
+Result type: revcomp
+
+...ACCGATACAATTAAAGGCTCCT.............................. # forward
+   ||||||||||||||||||||||-->
+5'-ACCGATACAATTAAAGGCTCCT-3' 3'-TTGCAGACCTTTCTGCTGTT-5' # primers
+                             <--||||||||||||||||||||
+................................TTGCAGACCTTTCTGCTGTT... # revcomp
+--
+ipcress: ENA|JX412914|JX412914.1:filter(unmasked) PhageM13 181 B 1525 0 A 1686 0 revcomp
+>PhageM13_product_1 seq ENA|JX412914|JX412914.1:filter(unmasked) start 1525 length 181
+TTGTCGTCTTTCCAGACGTTAGTAAATGAATTTTCTGTATGGGGTTTTGCTAAACAACTTTCAACAGTTT
+CAGCGGAGTGAGAATAGAAAGGAACAACTAAAGGAATTGCGAATAATAATTTTTTCACGTTGAAAATCTC
+CAAAAAAAAAGGCTCCAAAAGGAGCCTTTAATTGTATCGGT
+-- completed ipcress analysis

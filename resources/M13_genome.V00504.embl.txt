@@ -1,0 +1,291 @@
+ID   V00604; SV 2; circular; genomic DNA; STD; VRL; 6407 BP.
+XX
+AC   V00604; J02461; M10377;
+XX
+DT   09-JUN-1982 (Rel. 01, Created)
+DT   14-NOV-2006 (Rel. 89, Last updated, Version 7)
+XX
+DE   Phage M13 genome
+XX
+KW   coat protein; origin of replication.
+XX
+OS   Escherichia virus M13
+OC   Viruses; Inoviridae; Inovirus.
+XX
+RN   [1]
+RP   1-6407
+RX   DOI; 10.1016/0378-1119(80)90093-1.
+RX   PUBMED; 6254849.
+RA   van Wezenbeck P.M.G.F., Hulsebos T.J.M., Schoenmakers J.G.G.;
+RT   "Nucleotide sequence of the filamentous bacteriophage M13 DNA genome:
+RT   comparison with phage fd.";
+RL   Gene 11(1-2):129-148(1980).
+XX
+DR   MD5; 62019269bdf19ab97f25daebf11be1b7.
+DR   EuropePMC; PMC135240; 12142423.
+DR   EuropePMC; PMC5318451; 28270823.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..6407
+FT                   /organism="Escherichia virus M13"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:1977402"
+FT   CDS             join(6006..6407,1..831)
+FT                   /transl_table=11
+FT                   /gene="II"
+FT                   /product="replication protein"
+FT                   /db_xref="GOA:P69547"
+FT                   /db_xref="InterPro:IPR006516"
+FT                   /db_xref="InterPro:IPR022686"
+FT                   /db_xref="InterPro:IPR022688"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P69547"
+FT                   /protein_id="CAA23856.1"
+FT                   /translation="MIDMLVLRLPFIDSLVCSRLSGNDLIAFVDLSKIATLSGMNLSAR
+FT                   TVEYHIDGDLTVSGLSHPFESLPTHYSGIAFKIYEGSKNFYPCVEIKASPAKVLQGHNV
+FT                   FGTTDLALCSEALLLNFANSLPCLYDLLDVNATTISRIDATFSARAPNENIAKQVIDHL
+FT                   RNVSNGQTKSTRSQNWESTVTWNETSRHRTLVAYLKHVELQHQIQQLSSKPSAKMTSYQ
+FT                   KEQLKVLSNPDLLEFASGLVRFEARIKTRYLKSFGLPLNLFDAIRFASDYNSQGKDLIF
+FT                   DLWSFSFSELFKAFEGDSMNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYFGFYRRL
+FT                   VNEGYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINVDFSSQRP
+FT                   DWYNEPVLKIA"
+FT   CDS             496..831
+FT                   /transl_table=11
+FT                   /gene="X"
+FT                   /db_xref="GOA:P69547"
+FT                   /db_xref="InterPro:IPR006516"
+FT                   /db_xref="InterPro:IPR022686"
+FT                   /db_xref="InterPro:IPR022688"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P69547"
+FT                   /protein_id="CAA23857.1"
+FT                   /translation="MNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYFGFYRRLVNEG
+FT                   YDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINVDFSSQRPDWYN
+FT                   EPVLKIA"
+FT   CDS             843..1106
+FT                   /transl_table=11
+FT                   /gene="V"
+FT                   /product="helix destabilising protein"
+FT                   /db_xref="GOA:P69544"
+FT                   /db_xref="InterPro:IPR003512"
+FT                   /db_xref="InterPro:IPR012340"
+FT                   /db_xref="PDB:2GVA"
+FT                   /db_xref="PDB:2GVB"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P69544"
+FT                   /protein_id="CAA23858.1"
+FT                   /translation="MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLV
+FT                   KITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDRLRLVPAK"
+FT   old_sequence    898
+FT                   /replace="g"
+FT                   /citation=[1]
+FT   CDS             1108..1209
+FT                   /transl_table=11
+FT                   /gene="VII"
+FT                   /product="phage assembly protein"
+FT                   /db_xref="GOA:P69535"
+FT                   /db_xref="InterPro:IPR031377"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P69535"
+FT                   /protein_id="CAA23859.1"
+FT                   /translation="MEQVADFDTIYQAMIQISVVLCFALGIIAGGQR"
+FT   CDS             1206..1304
+FT                   /transl_table=11
+FT                   /gene="IX"
+FT                   /product="structural protein"
+FT                   /db_xref="GOA:P69538"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P69538"
+FT                   /protein_id="CAA23860.1"
+FT                   /translation="MSVLVYSFASFVLGWCLRSGITYFTRLMETSS"
+FT   CDS             1301..1522
+FT                   /transl_table=11
+FT                   /gene="VIII"
+FT                   /product="structural protein"
+FT                   /db_xref="GOA:P69541"
+FT                   /db_xref="InterPro:IPR008020"
+FT                   /db_xref="InterPro:IPR023390"
+FT                   /db_xref="PDB:2CPB"
+FT                   /db_xref="PDB:2CPS"
+FT                   /db_xref="PDB:2MJZ"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P69541"
+FT                   /protein_id="CAA23861.1"
+FT                   /translation="MKKSLVLKASVAVATLVPMLSFAAEGDDPAKAAFNSLQASATEYI
+FT                   GYAWAMVVVIVGATIGIKLFKKFTSKAS"
+FT   CDS             1579..2853
+FT                   /transl_table=11
+FT                   /gene="III"
+FT                   /product="structural protein"
+FT                   /db_xref="GOA:P69168"
+FT                   /db_xref="InterPro:IPR008021"
+FT                   /db_xref="InterPro:IPR013834"
+FT                   /db_xref="InterPro:IPR036200"
+FT                   /db_xref="PDB:1G3P"
+FT                   /db_xref="PDB:1TOL"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P69168"
+FT                   /protein_id="CAA23862.1"
+FT                   /translation="MKKLLFAIPLVVPFYSHSAETVESCLAKPHTENSFTNVWKDDKTL
+FT                   DRYANYEGCLWNATGVVVCTGDETQCYGTWVPIGLAIPENEGGGSEGGGSEGGGSEGGG
+FT                   TKPPEYGDTPIPGYTYINPLDGTYPPGTEQNPANPNPSLEESQPLNTFMFQNNRFRNRQ
+FT                   GALTVYTGTVTQGTDPVKTYYQYTPVSSKAMYDAYWNGKFRDCAFHSGFNEDPFVCEYQ
+FT                   GQSSDLPQPPVNAGGGSGGGSGGGSEGGGSEGGGSEGGGSEGGGSGGGSGSGDFDYEKM
+FT                   ANANKGAMTENADENALQSDAKGKLDSVATDYGAAIDGFIGDVSGLANGNGATGDFAGS
+FT                   NSQMAQVGDGDNSPLMNNFRQYLPSLPQSVECRPFVFSAGKPYEFSIDCDKINLFRGVF
+FT                   AFLLYVATFMYVFSTFANILRNKES"
+FT   old_sequence    1838
+FT                   /replace="c"
+FT                   /citation=[1]
+FT   CDS             2856..3194
+FT                   /transl_table=11
+FT                   /gene="VI"
+FT                   /product="small hydrophobic protein"
+FT                   /db_xref="GOA:P69532"
+FT                   /db_xref="InterPro:IPR035210"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P69532"
+FT                   /protein_id="CAA23863.1"
+FT                   /translation="MPVLLGIPLLLRFLGFLLVTLFGYLLTFLKKGFGKIAIAISLFLA
+FT                   LIIGLNSILVGYLSDISAQLPSDFVQGVQLILPSNALPCFYVILSVKAAIFIFDVKQKI
+FT                   VSYLDWDK"
+FT   CDS             3196..4242
+FT                   /transl_table=11
+FT                   /gene="I"
+FT                   /product="phage assembly protein"
+FT                   /db_xref="GOA:P03656"
+FT                   /db_xref="InterPro:IPR008900"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P03656"
+FT                   /protein_id="CAA23864.1"
+FT                   /translation="MAVYFVTGKLGSGKTLVSVGKIQDKIVAGCKIATNLDLRLQNLPQ
+FT                   VGRFAKTPRVLRIPDKPSISDLLAIGRGNDSYDENKNGLLVLDECGTWFNTRSWNDKER
+FT                   QPIIDWFLHARKLGWDIIFLVQDLSIVDKQARSALAEHVVYCRRLDRITLPFVGTLYSL
+FT                   ITGSKMPLPKLHVGVVKYGDSQLSPTVERWLYTGKNLYNAYDTKQAFSSNYDSGVYSYL
+FT                   TPYLSHGRYFKPLNLGQKMKLTKIYLKKFSRVLCLAIGFASAFTYSYITQPKPEVKKVV
+FT                   SQTYDFDKFTIDSSQRLNLSYRYVFKDSKGKLINSDDLQKQGYSLTYIDLCTVSIKKGN
+FT                   SNEIVKCN"
+FT   CDS             4220..5500
+FT                   /transl_table=11
+FT                   /gene="IV"
+FT                   /product="phage assembly protein"
+FT                   /db_xref="GOA:P03665"
+FT                   /db_xref="InterPro:IPR001775"
+FT                   /db_xref="InterPro:IPR004845"
+FT                   /db_xref="InterPro:IPR004846"
+FT                   /db_xref="InterPro:IPR038591"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P03665"
+FT                   /protein_id="CAA23865.1"
+FT                   /translation="MKLLNVINFVFLMFVSSSSFAQVIEMNNSPLRDFVTWYSKQSGES
+FT                   VIVSPDVKGTVTVYSSDVKPENLRNFFISVLRANNFDMVGSIPSIIQKYNPNNQDYIDE
+FT                   LPSSDNQEYDDNSAPSGGFFVPQNDNVTQTFKINNVRAKDLIRVVELFVKSNTSKSSNV
+FT                   LSIDGSNLLVVSAPKDILDNLPQFLSTVDLPTDQILIEGLIFEVQQGDALDFSFAAGSQ
+FT                   RGTVAGGVNTDRLTSVLSSAGGSFGIFNGDVLGLSVRALKTNSHSKILSVPRILTLSGQ
+FT                   KGSISVGQNVPFITGRVTGESANVNNPFQTIERQNVGISMSVFPVAMAGGNIVLDITSK
+FT                   ADSLSSSTQASDVITNQRSIATTVNLRDGQTLLLGGLTDYKNTSQDSGVPFLSKIPLIG
+FT                   LLFSSRSDSNEESTLYVLVKATIVRAL"
+FT   old_sequence    5805
+FT                   /replace="t"
+FT                   /citation=[1]
+XX
+SQ   Sequence 6407 BP; 1576 A; 1296 C; 1314 G; 2221 T; 0 other;
+     aacgctacta ctattagtag aattgatgcc accttttcag ctcgcgcccc aaatgaaaat        60
+     atagctaaac aggttattga ccatttgcga aatgtatcta atggtcaaac taaatctact       120
+     cgttcgcaga attgggaatc aactgttaca tggaatgaaa cttccagaca ccgtacttta       180
+     gttgcatatt taaaacatgt tgagctacag caccagattc agcaattaag ctctaagcca       240
+     tccgcaaaaa tgacctctta tcaaaaggag caattaaagg tactctctaa tcctgacctg       300
+     ttggagtttg cttccggtct ggttcgcttt gaagctcgaa ttaaaacgcg atatttgaag       360
+     tctttcgggc ttcctcttaa tctttttgat gcaatccgct ttgcttctga ctataatagt       420
+     cagggtaaag acctgatttt tgatttatgg tcattctcgt tttctgaact gtttaaagca       480
+     tttgaggggg attcaatgaa tatttatgac gattccgcag tattggacgc tatccagtct       540
+     aaacatttta ctattacccc ctctggcaaa acttcttttg caaaagcctc tcgctatttt       600
+     ggtttttatc gtcgtctggt aaacgagggt tatgatagtg ttgctcttac tatgcctcgt       660
+     aattcctttt ggcgttatgt atctgcatta gttgaatgtg gtattcctaa atctcaactg       720
+     atgaatcttt ctacctgtaa taatgttgtt ccgttagttc gttttattaa cgtagatttt       780
+     tcttcccaac gtcctgactg gtataatgag ccagttctta aaatcgcata aggtaattca       840
+     caatgattaa agttgaaatt aaaccatctc aagcccaatt tactactcgt tctggtgttt       900
+     ctcgtcaggg caagccttat tcactgaatg agcagctttg ttacgttgat ttgggtaatg       960
+     aatatccggt tcttgtcaag attactcttg atgaaggtca gccagcctat gcgcctggtc      1020
+     tgtacaccgt tcatctgtcc tctttcaaag ttggtcagtt cggttccctt atgattgacc      1080
+     gtctgcgcct cgttccggct aagtaacatg gagcaggtcg cggatttcga cacaatttat      1140
+     caggcgatga tacaaatctc cgttgtactt tgtttcgcgc ttggtataat cgctgggggt      1200
+     caaagatgag tgttttagtg tattctttcg cctctttcgt tttaggttgg tgccttcgta      1260
+     gtggcattac gtattttacc cgtttaatgg aaacttcctc atgaaaaagt ctttagtcct      1320
+     caaagcctct gtagccgttg ctaccctcgt tccgatgctg tctttcgctg ctgagggtga      1380
+     cgatcccgca aaagcggcct ttaactccct gcaagcctca gcgaccgaat atatcggtta      1440
+     tgcgtgggcg atggttgttg tcattgtcgg cgcaactatc ggtatcaagc tgtttaagaa      1500
+     attcacctcg aaagcaagct gataaaccga tacaattaaa ggctcctttt ggagcctttt      1560
+     tttttggaga ttttcaacat gaaaaaatta ttattcgcaa ttcctttagt tgttcctttc      1620
+     tattctcact ccgctgaaac tgttgaaagt tgtttagcaa aaccccatac agaaaattca      1680
+     tttactaacg tctggaaaga cgacaaaact ttagatcgtt acgctaacta tgagggttgt      1740
+     ctgtggaatg ctacaggcgt tgtagtttgt actggtgacg aaactcagtg ttacggtaca      1800
+     tgggttccta ttgggcttgc tatccctgaa aatgagggtg gtggctctga gggtggcggt      1860
+     tctgagggtg gcggttctga gggtggcggt actaaacctc ctgagtacgg tgatacacct      1920
+     attccgggct atacttatat caaccctctc gacggcactt atccgcctgg tactgagcaa      1980
+     aaccccgcta atcctaatcc ttctcttgag gagtctcagc ctcttaatac tttcatgttt      2040
+     cagaataata ggttccgaaa taggcagggg gcattaactg tttatacggg cactgttact      2100
+     caaggcactg accccgttaa aacttattac cagtacactc ctgtatcatc aaaagccatg      2160
+     tatgacgctt actggaacgg taaattcaga gactgcgctt tccattctgg ctttaatgag      2220
+     gatccattcg tttgtgaata tcaaggccaa tcgtctgacc tgcctcaacc tcctgtcaat      2280
+     gctggcggcg gctctggtgg tggttctggt ggcggctctg agggtggtgg ctctgagggt      2340
+     ggcggttctg agggtggcgg ctctgaggga ggcggttccg gtggtggctc tggttccggt      2400
+     gattttgatt atgaaaagat ggcaaacgct aataaggggg ctatgaccga aaatgccgat      2460
+     gaaaacgcgc tacagtctga cgctaaaggc aaacttgatt ctgtcgctac tgattacggt      2520
+     gctgctatcg atggtttcat tggtgacgtt tccggccttg ctaatggtaa tggtgctact      2580
+     ggtgattttg ctggctctaa ttcccaaatg gctcaagtcg gtgacggtga taattcacct      2640
+     ttaatgaata atttccgtca atatttacct tccctccctc aatcggttga atgtcgccct      2700
+     tttgtcttta gcgctggtaa accatatgaa ttttctattg attgtgacaa aataaactta      2760
+     ttccgtggtg tctttgcgtt tcttttatat gttgccacct ttatgtatgt attttctacg      2820
+     tttgctaaca tactgcgtaa taaggagtct taatcatgcc agttcttttg ggtattccgt      2880
+     tattattgcg tttcctcggt ttccttctgg taactttgtt cggctatctg cttacttttc      2940
+     ttaaaaaggg cttcggtaag atagctattg ctatttcatt gtttcttgct cttattattg      3000
+     ggcttaactc aattcttgtg ggttatctct ctgatattag cgctcaatta ccctctgact      3060
+     ttgttcaggg tgttcagtta attctcccgt ctaatgcgct tccctgtttt tatgttattc      3120
+     tctctgtaaa ggctgctatt ttcatttttg acgttaaaca aaaaatcgtt tcttatttgg      3180
+     attgggataa ataatatggc tgtttatttt gtaactggca aattaggctc tggaaagacg      3240
+     ctcgttagcg ttggtaagat tcaggataaa attgtagctg ggtgcaaaat agcaactaat      3300
+     cttgatttaa ggcttcaaaa cctcccgcaa gtcgggaggt tcgctaaaac gcctcgcgtt      3360
+     cttagaatac cggataagcc ttctatatct gatttgcttg ctattgggcg cggtaatgat      3420
+     tcctacgatg aaaataaaaa cggcttgctt gttctcgatg agtgcggtac ttggtttaat      3480
+     acccgttctt ggaatgataa ggaaagacag ccgattattg attggtttct acatgctcgt      3540
+     aaattaggat gggatattat ttttcttgtt caggacttat ctattgttga taaacaggcg      3600
+     cgttctgcat tagctgaaca tgttgtttat tgtcgtcgtc tggacagaat tactttacct      3660
+     tttgtcggta ctttatattc tcttattact ggctcgaaaa tgcctctgcc taaattacat      3720
+     gttggcgttg ttaaatatgg cgattctcaa ttaagcccta ctgttgagcg ttggctttat      3780
+     actggtaaga atttgtataa cgcatatgat actaaacagg ctttttctag taattatgat      3840
+     tccggtgttt attcttattt aacgccttat ttatcacacg gtcggtattt caaaccatta      3900
+     aatttaggtc agaagatgaa attaactaaa atatatttga aaaagttttc tcgcgttctt      3960
+     tgtcttgcga ttggatttgc atcagcattt acatatagtt atataaccca acctaagccg      4020
+     gaggttaaaa aggtagtctc tcagacctat gattttgata aattcactat tgactcttct      4080
+     cagcgtctta atctaagcta tcgctatgtt ttcaaggatt ctaagggaaa attaattaat      4140
+     agcgacgatt tacagaagca aggttattca ctcacatata ttgatttatg tactgtttcc      4200
+     attaaaaaag gtaattcaaa tgaaattgtt aaatgtaatt aattttgttt tcttgatgtt      4260
+     tgtttcatca tcttcttttg ctcaggtaat tgaaatgaat aattcgcctc tgcgcgattt      4320
+     tgtaacttgg tattcaaagc aatcaggcga atccgttatt gtttctcccg atgtaaaagg      4380
+     tactgttact gtatattcat ctgacgttaa acctgaaaat ctacgcaatt tctttatttc      4440
+     tgttttacgt gctaataatt ttgatatggt tggttcaatt ccttccataa ttcagaagta      4500
+     taatccaaac aatcaggatt atattgatga attgccatca tctgataatc aggaatatga      4560
+     tgataattcc gctccttctg gtggtttctt tgttccgcaa aatgataatg ttactcaaac      4620
+     ttttaaaatt aataacgttc gggcaaagga tttaatacga gttgtcgaat tgtttgtaaa      4680
+     gtctaatact tctaaatcct caaatgtatt atctattgac ggctctaatc tattagttgt      4740
+     tagtgcacct aaagatattt tagataacct tcctcaattc ctttctactg ttgatttgcc      4800
+     aactgaccag atattgattg agggtttgat atttgaggtt cagcaaggtg atgctttaga      4860
+     tttttcattt gctgctggct ctcagcgtgg cactgttgca ggcggtgtta atactgaccg      4920
+     cctcacctct gttttatctt ctgctggtgg ttcgttcggt atttttaatg gcgatgtttt      4980
+     agggctatca gttcgcgcat taaagactaa tagccattca aaaatattgt ctgtgccacg      5040
+     tattcttacg ctttcaggtc agaagggttc tatctctgtt ggccagaatg tcccttttat      5100
+     tactggtcgt gtgactggtg aatctgccaa tgtaaataat ccatttcaga cgattgagcg      5160
+     tcaaaatgta ggtatttcca tgagcgtttt tcctgttgca atggctggcg gtaatattgt      5220
+     tctggatatt accagcaagg ccgatagttt gagttcttct actcaggcaa gtgatgttat      5280
+     tactaatcaa agaagtattg ctacaacggt taatttgcgt gatggacaga ctcttttact      5340
+     cggtggcctc actgattata aaaacacttc tcaagattct ggcgtaccgt tcctgtctaa      5400
+     aatcccttta atcggcctcc tgtttagctc ccgctctgat tccaacgagg aaagcacgtt      5460
+     atacgtgctc gtcaaagcaa ccatagtacg cgccctgtag cggcgcatta agcgcggcgg      5520
+     gtgtggtggt tacgcgcagc gtgaccgcta cacttgccag cgccctagcg cccgctcctt      5580
+     tcgctttctt cccttccttt ctcgccacgt tcgccggctt tccccgtcaa gctctaaatc      5640
+     gggggctccc tttagggttc cgatttagtg ctttacggca cctcgacccc aaaaaacttg      5700
+     atttgggtga tggttcacgt agtgggccat cgccctgata gacggttttt cgccctttga      5760
+     cgttggagtc cacgttcttt aatagtggac tcttgttcca aactggaaca acactcaacc      5820
+     ctatctcggg ctattctttt gatttataag ggattttgcc gatttcggcc tattggttaa      5880
+     aaaatgagct gatttaacaa aaatttaacg cgaattttaa caaaatatta acgtttacaa      5940
+     tttaaatatt tgcttataca atcttcctgt ttttggggct tttctgatta tcaaccgggg      6000
+     tacatatgat tgacatgcta gttttacgat taccgttcat cgattctctt gtttgctcca      6060
+     gactctcagg caatgacctg atagcctttg tagacctctc aaaaatagct accctctccg      6120
+     gcatgaattt atcagctaga acggttgaat atcatattga tggtgatttg actgtctccg      6180
+     gcctttctca cccttttgaa tctttaccta cacattactc aggcattgca tttaaaatat      6240
+     atgagggttc taaaaatttt tatccttgcg ttgaaataaa ggcttctccc gcaaaagtat      6300
+     tacagggtca taatgttttt ggtacaaccg atttagcttt atgctctgag gctttattgc      6360
+     ttaattttgc taattctttg ccttgcctgt atgatttatt ggatgtt                    6407
+//

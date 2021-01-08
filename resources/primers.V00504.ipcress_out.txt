@@ -1,0 +1,22 @@
+
+Ipcress result
+--------------
+ Experiment: PhageM13
+    Primers: B A
+     Target: ENA|V00604|V00604.2:filter(unmasked) Phage M13 genome
+    Matches: 22/22 20/20
+    Product: 181 bp (range 100-500)
+Result type: revcomp
+
+...ACCGATACAATTAAAGGCTCCT.............................. # forward
+   ||||||||||||||||||||||-->
+5'-ACCGATACAATTAAAGGCTCCT-3' 3'-TTGCAGACCTTTCTGCTGTT-5' # primers
+                             <--||||||||||||||||||||
+................................TTGCAGACCTTTCTGCTGTT... # revcomp
+--
+ipcress: ENA|V00604|V00604.2:filter(unmasked) PhageM13 181 B 1525 0 A 1686 0 revcomp
+>PhageM13_product_1 seq ENA|V00604|V00604.2:filter(unmasked) start 1525 length 181
+TTGTCGTCTTTCCAGACGTTAGTAAATGAATTTTCTGTATGGGGTTTTGCTAAACAACTTTCAACAGTTT
+CAGCGGAGTGAGAATAGAAAGGAACAACTAAAGGAATTGCGAATAATAATTTTTTCATGTTGAAAATCTC
+CAAAAAAAAAGGCTCCAAAAGGAGCCTTTAATTGTATCGGT
+-- completed ipcress analysis
