@@ -12,6 +12,7 @@ Authors: Taejoon Kwon (tkwon@unist.ac.kr)
 * Green: a variable region (12 amino acids == 36 nucleotides)
 * Red: a target of PhageM13_ILMN_F
 * Orange: a target of PhageM13_ILMN_R
+* Yellow/Cyan : a pair of reads with 2x150bp sequencing (a bold hexamer will be dropped due to the UMI). 
 
 ## Primers for Phage M13 variable region amplification & the library prep.
 <img src="resources/PhageM13_primers.png" width="500px" alt="Primers for PhageM13 Variable Region">
