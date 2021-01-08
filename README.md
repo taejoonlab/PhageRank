@@ -3,8 +3,8 @@
 Authors: Taejoon Kwon (tkwon@unist.ac.kr)
 
 ## Phage M13 Genomes
-* [M13_genome.V00504.fa](resources/M13_genome.V00504.fa) - from https://www.ebi.ac.uk/ena/browser/view/V00604.2
-* [M13_genome.JX412914.fa](resources/M13_genome.JX412914.fa) - from https://www.ebi.ac.uk/ena/browser/view/JX412914.1
+* [PhageM13_genome.V00504.fa](resources/PhageM13_genome.V00504.fa) - from https://www.ebi.ac.uk/ena/browser/view/V00604.2
+* [PhageM13_genome.JX412914.fa](resources/PhageM13_genome.JX412914.fa) - from https://www.ebi.ac.uk/ena/browser/view/JX412914.1
 
 ## Phage M13 variable region for screening
 <img src="resources/PhageM13_VariableRegion.png" width="500px" alt="M13 Variable Region">
