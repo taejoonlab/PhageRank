@@ -1,4 +1,4 @@
-# PhageSeeker - A suite for M13 phage display NGS data analysis.
+# PhageRank - A suite for M13 phage display NGS data analysis.
 
 Authors: Taejoon Kwon (tkwon@unist.ac.kr)
 
